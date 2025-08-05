@@ -117,7 +117,7 @@ def Epre(da1, da2, lat):
     corr = cov / (sd1 * sd2)
 
     # Evaluate the E-pre index
-    E = np.log((sd1 / sd2 + sd2 / sd1)**2 * 2**4 / (1 + corr)**4)
+    E = np.log((sd1 / sd2 + sd2 / sd1)**2 * 2**2 / (1 + corr)**4)
     return E
 
 def find_best_epoch(target: str, ens_name: str, var_num: int, is_mean: bool) -> int:
