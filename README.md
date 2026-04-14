@@ -1,7 +1,7 @@
 # Increasing Resolution and Accuracy in Sub-Seasonal Forecasting through 3D U-Net: the Western US
 
 This repository provides code accompanying the paper
-> Ryu, J., Kim, H., Wang, S.-Y. (., and Yoon, J.-H.: Increasing resolution and accuracy in sub-seasonal forecasting through 3D U-Net: the western US, Geosci. Model Dev., 19, 27–39, <https://doi.org/10.5194/gmd-19-27-2026>, 2026.
+> Ryu, J., Kim, H., Wang, S.-Y. (Simon)., and Yoon, J.-H.: Increasing resolution and accuracy in sub-seasonal forecasting through 3D U-Net: the western US, Geosci. Model Dev., 19, 27–39, <https://doi.org/10.5194/gmd-19-27-2026>, 2026.
 
 ---
 ## Model Overview
